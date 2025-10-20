@@ -1,0 +1,1564 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "Cadena perpetua",
+      "director": "Frank Darabont",
+      "anio": 1994,
+      "genero": ["Drama"],
+      "rating": 9.3,
+      "taquilla_millones": 28.3,
+      "disponible": true
+    },
+    {
+      "id": 2,
+      "titulo": "El padrino",
+      "director": "Francis Ford Coppola",
+      "anio": 1972,
+      "genero": ["Crimen", "Drama"],
+      "rating": 9.2,
+      "taquilla_millones": 246.1,
+      "disponible": true
+    },
+    {
+      "id": 3,
+      "titulo": "El caballero oscuro",
+      "director": "Christopher Nolan",
+      "anio": 2008,
+      "genero": ["Acción", "Crimen", "Drama"],
+      "rating": 9.0,
+      "taquilla_millones": 1004.9,
+      "disponible": true
+    },
+    {
+      "id": 4,
+      "titulo": "El padrino: Parte II",
+      "director": "Francis Ford Coppola",
+      "anio": 1974,
+      "genero": ["Crimen", "Drama"],
+      "rating": 9.0,
+      "taquilla_millones": 47.8,
+      "disponible": true
+    },
+    {
+      "id": 5,
+      "titulo": "12 hombres sin piedad",
+      "director": "Sidney Lumet",
+      "anio": 1957,
+      "genero": ["Crimen", "Drama"],
+      "rating": 9.0,
+      "taquilla_millones": 2.0,
+      "disponible": true
+    },
+    {
+      "id": 6,
+      "titulo": "La lista de Schindler",
+      "director": "Steven Spielberg",
+      "anio": 1993,
+      "genero": ["Biografía", "Drama", "Historia"],
+      "rating": 8.9,
+      "taquilla_millones": 322.1,
+      "disponible": true
+    },
+    {
+      "id": 7,
+      "titulo": "El señor de los anillos: El retorno del rey",
+      "director": "Peter Jackson",
+      "anio": 2003,
+      "genero": ["Aventura", "Fantasía"],
+      "rating": 8.9,
+      "taquilla_millones": 1146.1,
+      "disponible": true
+    },
+    {
+      "id": 8,
+      "titulo": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "anio": 1994,
+      "genero": ["Crimen", "Drama"],
+      "rating": 8.9,
+      "taquilla_millones": 213.9,
+      "disponible": false
+    },
+    {
+      "id": 9,
+      "titulo": "El bueno, el feo y el malo",
+      "director": "Sergio Leone",
+      "anio": 1966,
+      "genero": ["Oeste"],
+      "rating": 8.8,
+      "taquilla_millones": 25.1,
+      "disponible": true
+    },
+    {
+      "id": 10,
+      "titulo": "El club de la lucha",
+      "director": "David Fincher",
+      "anio": 1999,
+      "genero": ["Drama"],
+      "rating": 8.8,
+      "taquilla_millones": 101.2,
+      "disponible": true
+    },
+    {
+      "id": 11,
+      "titulo": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "anio": 1994,
+      "genero": ["Drama", "Romance"],
+      "rating": 8.8,
+      "taquilla_millones": 677.4,
+      "disponible": true
+    },
+    {
+      "id": 12,
+      "titulo": "Origen",
+      "director": "Christopher Nolan",
+      "anio": 2010,
+      "genero": ["Acción", "Aventura", "Ciencia Ficción"],
+      "rating": 8.8,
+      "taquilla_millones": 829.9,
+      "disponible": true
+    },
+    {
+      "id": 13,
+      "titulo": "El señor de los anillos: Las dos torres",
+      "director": "Peter Jackson",
+      "anio": 2002,
+      "genero": ["Aventura", "Fantasía"],
+      "rating": 8.7,
+      "taquilla_millones": 936.7,
+      "disponible": true
+    },
+    {
+      "id": 14,
+      "titulo": "El imperio contraataca",
+      "director": "Irvin Kershner",
+      "anio": 1980,
+      "genero": ["Acción", "Aventura", "Fantasía"],
+      "rating": 8.7,
+      "taquilla_millones": 538.4,
+      "disponible": false
+    },
+    {
+      "id": 15,
+      "titulo": "Matrix",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "anio": 1999,
+      "genero": ["Acción", "Ciencia Ficción"],
+      "rating": 8.7,
+      "taquilla_millones": 465.7,
+      "disponible": true
+    },
+    {
+      "id": 16,
+      "titulo": "Uno de los nuestros",
+      "director": "Martin Scorsese",
+      "anio": 1990,
+      "genero": ["Biografía", "Crimen", "Drama"],
+      "rating": 8.7,
+      "taquilla_millones": 46.8,
+      "disponible": true
+    },
+    {
+      "id": 17,
+      "titulo": "Atrapado en el tiempo",
+      "director": "Miloš Forman",
+      "anio": 1975,
+      "genero": ["Drama"],
+      "rating": 8.6,
+      "taquilla_millones": 108.9,
+      "disponible": true
+    },
+    {
+      "id": 18,
+      "titulo": "Se7en",
+      "director": "David Fincher",
+      "anio": 1995,
+      "genero": ["Crimen", "Drama", "Misterio"],
+      "rating": 8.6,
+      "taquilla_millones": 327.3,
+      "disponible": true
+    },
+    {
+      "id": 19,
+      "titulo": "Los siete samuráis",
+      "director": "Akira Kurosawa",
+      "anio": 1954,
+      "genero": ["Acción", "Aventura", "Drama"],
+      "rating": 8.6,
+      "taquilla_millones": 0.3,
+      "disponible": true
+    },
+    {
+      "id": 20,
+      "titulo": "¿Qué bello es vivir!",
+      "director": "Frank Capra",
+      "anio": 1946,
+      "genero": ["Drama", "Fantasía"],
+      "rating": 8.6,
+      "taquilla_millones": 9.6,
+      "disponible": true
+    },
+    {
+      "id": 21,
+      "titulo": "Parásitos",
+      "director": "Bong Joon Ho",
+      "anio": 2019,
+      "genero": ["Comedia", "Drama", "Thriller"],
+      "rating": 8.5,
+      "taquilla_millones": 262.1,
+      "disponible": true
+    },
+    {
+      "id": 22,
+      "titulo": "Interstellar",
+      "director": "Christopher Nolan",
+      "anio": 2014,
+      "genero": ["Aventura", "Drama", "Ciencia Ficción"],
+      "rating": 8.5,
+      "taquilla_millones": 731.5,
+      "disponible": true
+    },
+    {
+      "id": 23,
+      "titulo": "La milla verde",
+      "director": "Frank Darabont",
+      "anio": 1999,
+      "genero": ["Crimen", "Drama", "Fantasía"],
+      "rating": 8.6,
+      "taquilla_millones": 286.8,
+      "disponible": true
+    },
+    {
+      "id": 24,
+      "titulo": "Gladiator",
+      "director": "Ridley Scott",
+      "anio": 2000,
+      "genero": ["Acción", "Aventura", "Drama"],
+      "rating": 8.5,
+      "taquilla_millones": 460.5,
+      "disponible": true
+    },
+    {
+      "id": 25,
+      "titulo": "Whiplash",
+      "director": "Damien Chazelle",
+      "anio": 2014,
+      "genero": ["Drama", "Música"],
+      "rating": 8.5,
+      "taquilla_millones": 49.0,
+      "disponible": true
+    },
+    {
+      "id": 26,
+      "titulo": "El viaje de Chihiro",
+      "director": "Hayao Miyazaki",
+      "anio": 2001,
+      "genero": ["Animación", "Aventura", "Familiar"],
+      "rating": 8.6,
+      "taquilla_millones": 395.8,
+      "disponible": true
+    },
+    {
+      "id": 27,
+      "titulo": "Vengadores: Endgame",
+      "director": "Anthony Russo, Joe Russo",
+      "anio": 2019,
+      "genero": ["Acción", "Aventura", "Drama"],
+      "rating": 8.4,
+      "taquilla_millones": 2798.0,
+      "disponible": true
+    },
+    {
+      "id": 28,
+      "titulo": "Django desencadenado",
+      "director": "Quentin Tarantino",
+      "anio": 2012,
+      "genero": ["Drama", "Oeste"],
+      "rating": 8.4,
+      "taquilla_millones": 449.6,
+      "disponible": true
+    },
+    {
+      "id": 29,
+      "titulo": "Alien, el octavo pasajero",
+      "director": "Ridley Scott",
+      "anio": 1979,
+      "genero": ["Terror", "Ciencia Ficción"],
+      "rating": 8.4,
+      "taquilla_millones": 105.0,
+      "disponible": true
+    },
+    {
+      "id": 30,
+      "titulo": "La ciudad de Dios",
+      "director": "Fernando Meirelles, Kátia Lund",
+      "anio": 2002,
+      "genero": ["Crimen", "Drama"],
+      "rating": 8.6,
+      "taquilla_millones": 30.6,
+      "disponible": true
+    },
+    {
+      "id": 31,
+      "titulo": "Braveheart",
+      "director": "Mel Gibson",
+      "anio": 1995,
+      "genero": ["Biografía", "Drama", "Historia"],
+      "rating": 8.4,
+      "taquilla_millones": 213.2,
+      "disponible": true
+    },
+    {
+      "id": 32,
+      "titulo": "El pianista",
+      "director": "Roman Polanski",
+      "anio": 2002,
+      "genero": ["Biografía", "Drama", "Música"],
+      "rating": 8.5,
+      "taquilla_millones": 120.0,
+      "disponible": true
+    },
+    {
+      "id": 33,
+      "titulo": "Casablanca",
+      "director": "Michael Curtiz",
+      "anio": 1942,
+      "genero": ["Drama", "Romance", "Guerra"],
+      "rating": 8.5,
+      "taquilla_millones": 3.7,
+      "disponible": true
+    },
+    {
+      "id": 34,
+      "titulo": "La naranja mecánica",
+      "director": "Stanley Kubrick",
+      "anio": 1971,
+      "genero": ["Crimen", "Drama", "Ciencia Ficción"],
+      "rating": 8.3,
+      "taquilla_millones": 26.6,
+      "disponible": true
+    },
+    {
+      "id": 35,
+      "titulo": "El resplandor",
+      "director": "Stanley Kubrick",
+      "anio": 1980,
+      "genero": ["Drama", "Terror"],
+      "rating": 8.4,
+      "taquilla_millones": 47.3,
+      "disponible": true
+    },
+    {
+      "id": 36,
+      "titulo": "Up",
+      "director": "Pete Docter, Bob Peterson",
+      "anio": 2009,
+      "genero": ["Animación", "Aventura", "Comedia"],
+      "rating": 8.3,
+      "taquilla_millones": 735.1,
+      "disponible": true
+    },
+    {
+      "id": 37,
+      "titulo": "Toy Story",
+      "director": "John Lasseter",
+      "anio": 1995,
+      "genero": ["Animación", "Aventura", "Comedia"],
+      "rating": 8.3,
+      "taquilla_millones": 373.6,
+      "disponible": true
+    },
+    {
+      "id": 38,
+      "titulo": "Wall-E",
+      "director": "Andrew Stanton",
+      "anio": 2008,
+      "genero": ["Animación", "Aventura", "Familiar"],
+      "rating": 8.4,
+      "taquilla_millones": 521.3,
+      "disponible": true
+    },
+    {
+      "id": 39,
+      "titulo": "El show de Truman",
+      "director": "Peter Weir",
+      "anio": 1998,
+      "genero": ["Comedia", "Drama"],
+      "rating": 8.2,
+      "taquilla_millones": 264.1,
+      "disponible": true
+    },
+    {
+      "id": 40,
+      "titulo": "Nausicaä del Valle del Viento",
+      "director": "Hayao Miyazaki",
+      "anio": 1984,
+      "genero": ["Animación", "Aventura", "Fantasía"],
+      "rating": 8.1,
+      "taquilla_millones": 5.0,
+      "disponible": false
+    },
+    {
+      "id": 41,
+      "titulo": "El sexto sentido",
+      "director": "M. Night Shyamalan",
+      "anio": 1999,
+      "genero": ["Drama", "Misterio", "Thriller"],
+      "rating": 8.1,
+      "taquilla_millones": 672.8,
+      "disponible": true
+    },
+    {
+      "id": 42,
+      "titulo": "El silencio de los corderos",
+      "director": "Jonathan Demme",
+      "anio": 1991,
+      "genero": ["Crimen", "Drama", "Thriller"],
+      "rating": 8.6,
+      "taquilla_millones": 272.7,
+      "disponible": true
+    },
+    {
+      "id": 43,
+      "titulo": "El club de los poetas muertos",
+      "director": "Peter Weir",
+      "anio": 1989,
+      "genero": ["Comedia", "Drama"],
+      "rating": 8.1,
+      "taquilla_millones": 235.9,
+      "disponible": true
+    },
+    {
+      "id": 44,
+      "titulo": "La vida es bella",
+      "director": "Roberto Benigni",
+      "anio": 1997,
+      "genero": ["Comedia", "Drama", "Romance"],
+      "rating": 8.6,
+      "taquilla_millones": 230.1,
+      "disponible": true
+    },
+    {
+      "id": 45,
+      "titulo": "La ventana indiscreta",
+      "director": "Alfred Hitchcock",
+      "anio": 1954,
+      "genero": ["Misterio", "Thriller"],
+      "rating": 8.4,
+      "taquilla_millones": 37.0,
+      "disponible": true
+    },
+    {
+      "id": 46,
+      "titulo": "Tiburón",
+      "director": "Steven Spielberg",
+      "anio": 1975,
+      "genero": ["Aventura", "Thriller"],
+      "rating": 8.1,
+      "taquilla_millones": 472.0,
+      "disponible": true
+    },
+    {
+      "id": 47,
+      "titulo": "Blade Runner",
+      "director": "Ridley Scott",
+      "anio": 1982,
+      "genero": ["Acción", "Ciencia Ficción", "Thriller"],
+      "rating": 8.1,
+      "taquilla_millones": 41.6,
+      "disponible": true
+    },
+    {
+      "id": 48,
+      "titulo": "Reservoir Dogs",
+      "director": "Quentin Tarantino",
+      "anio": 1992,
+      "genero": ["Crimen", "Drama", "Thriller"],
+      "rating": 8.3,
+      "taquilla_millones": 2.8,
+      "disponible": true
+    },
+    {
+      "id": 49,
+      "titulo": "V de Vendetta",
+      "director": "James McTeigue",
+      "anio": 2005,
+      "genero": ["Acción", "Drama", "Ciencia Ficción"],
+      "rating": 8.2,
+      "taquilla_millones": 132.5,
+      "disponible": true
+    },
+    {
+      "id": 50,
+      "titulo": "Léon: El profesional",
+      "director": "Luc Besson",
+      "anio": 1994,
+      "genero": ["Acción", "Crimen", "Drama"],
+      "rating": 8.5,
+      "taquilla_millones": 19.5,
+      "disponible": true
+    },
+    {
+      "id": 51,
+      "titulo": "Indiana Jones en busca del arca perdida",
+      "director": "Steven Spielberg",
+      "anio": 1981,
+      "genero": ["Acción", "Aventura"],
+      "rating": 8.4,
+      "taquilla_millones": 389.9,
+      "disponible": true
+    },
+    {
+      "id": 52,
+      "titulo": "E.T., el extraterrestre",
+      "director": "Steven Spielberg",
+      "anio": 1982,
+      "genero": ["Ciencia Ficción", "Aventura", "Familiar"],
+      "rating": 7.8,
+      "taquilla_millones": 792.9,
+      "disponible": true
+    },
+    {
+      "id": 53,
+      "titulo": "Regreso al futuro",
+      "director": "Robert Zemeckis",
+      "anio": 1985,
+      "genero": ["Aventura", "Comedia", "Ciencia Ficción"],
+      "rating": 8.5,
+      "taquilla_millones": 381.1,
+      "disponible": true
+    },
+    {
+      "id": 54,
+      "titulo": "Salvar al soldado Ryan",
+      "director": "Steven Spielberg",
+      "anio": 1998,
+      "genero": ["Drama", "Guerra"],
+      "rating": 8.6,
+      "taquilla_millones": 482.3,
+      "disponible": true
+    },
+    {
+      "id": 55,
+      "titulo": "El club de la lluvia",
+      "director": "Barry Levinson",
+      "anio": 1988,
+      "genero": ["Drama"],
+      "rating": 8.0,
+      "taquilla_millones": 354.8,
+      "disponible": true
+    },
+    {
+      "id": 56,
+      "titulo": "El nombre de la rosa",
+      "director": "Jean-Jacques Annaud",
+      "anio": 1986,
+      "genero": ["Crimen", "Drama", "Misterio"],
+      "rating": 7.7,
+      "taquilla_millones": 7.2,
+      "disponible": true
+    },
+    {
+      "id": 57,
+      "titulo": "Malditos bastardos",
+      "director": "Quentin Tarantino",
+      "anio": 2009,
+      "genero": ["Aventura", "Drama", "Guerra"],
+      "rating": 8.3,
+      "taquilla_millones": 321.5,
+      "disponible": true
+    },
+    {
+      "id": 58,
+      "titulo": "Kill Bill: Volumen 1",
+      "director": "Quentin Tarantino",
+      "anio": 2003,
+      "genero": ["Acción", "Crimen", "Thriller"],
+      "rating": 8.1,
+      "taquilla_millones": 180.9,
+      "disponible": true
+    },
+    {
+      "id": 59,
+      "titulo": "Kill Bill: Volumen 2",
+      "director": "Quentin Tarantino",
+      "anio": 2004,
+      "genero": ["Acción", "Crimen", "Thriller"],
+      "rating": 8.0,
+      "taquilla_millones": 152.2,
+      "disponible": true
+    },
+    {
+      "id": 60,
+      "titulo": "Donnie Darko",
+      "director": "Richard Kelly",
+      "anio": 2001,
+      "genero": ["Drama", "Misterio", "Ciencia Ficción"],
+      "rating": 8.0,
+      "taquilla_millones": 4.1,
+      "disponible": true
+    },
+    {
+      "id": 61,
+      "titulo": "Amelie",
+      "director": "Jean-Pierre Jeunet",
+      "anio": 2001,
+      "genero": ["Comedia", "Romance"],
+      "rating": 8.3,
+      "taquilla_millones": 174.2,
+      "disponible": true
+    },
+    {
+      "id": 62,
+      "titulo": "Memento",
+      "director": "Christopher Nolan",
+      "anio": 2000,
+      "genero": ["Misterio", "Thriller"],
+      "rating": 8.4,
+      "taquilla_millones": 39.7,
+      "disponible": true
+    },
+    {
+      "id": 63,
+      "titulo": "El laberinto del fauno",
+      "director": "Guillermo del Toro",
+      "anio": 2006,
+      "genero": ["Drama", "Fantasía", "Guerra"],
+      "rating": 8.2,
+      "taquilla_millones": 83.9,
+      "disponible": true
+    },
+    {
+      "id": 64,
+      "titulo": "Requiem por un sueño",
+      "director": "Darren Aronofsky",
+      "anio": 2000,
+      "genero": ["Drama"],
+      "rating": 8.3,
+      "taquilla_millones": 7.4,
+      "disponible": false
+    },
+    {
+      "id": 65,
+      "titulo": "Trainspotting",
+      "director": "Danny Boyle",
+      "anio": 1996,
+      "genero": ["Drama"],
+      "rating": 8.1,
+      "taquilla_millones": 72.8,
+      "disponible": true
+    },
+    {
+      "id": 66,
+      "titulo": "Oldboy",
+      "director": "Park Chan-wook",
+      "anio": 2003,
+      "genero": ["Acción", "Drama", "Misterio"],
+      "rating": 8.4,
+      "taquilla_millones": 15.0,
+      "disponible": true
+    },
+    {
+      "id": 67,
+      "titulo": "Sin City",
+      "director": "Frank Miller, Robert Rodriguez",
+      "anio": 2005,
+      "genero": ["Crimen", "Thriller"],
+      "rating": 8.0,
+      "taquilla_millones": 158.8,
+      "disponible": true
+    },
+    {
+      "id": 68,
+      "titulo": "El viaje de Chihiro",
+      "director": "Hayao Miyazaki",
+      "anio": 2001,
+      "genero": ["Animación", "Aventura", "Familiar"],
+      "rating": 8.6,
+      "taquilla_millones": 395.8,
+      "disponible": true
+    },
+    {
+      "id": 69,
+      "titulo": "Princesa Mononoke",
+      "director": "Hayao Miyazaki",
+      "anio": 1997,
+      "genero": ["Animación", "Aventura", "Fantasía"],
+      "rating": 8.4,
+      "taquilla_millones": 169.8,
+      "disponible": true
+    },
+    {
+      "id": 70,
+      "titulo": "El castillo ambulante",
+      "director": "Hayao Miyazaki",
+      "anio": 2004,
+      "genero": ["Animación", "Aventura", "Fantasía"],
+      "rating": 8.2,
+      "taquilla_millones": 236.0,
+      "disponible": true
+    },
+    {
+      "id": 71,
+      "titulo": "El lobo de Wall Street",
+      "director": "Martin Scorsese",
+      "anio": 2013,
+      "genero": ["Biografía", "Comedia", "Crimen"],
+      "rating": 8.2,
+      "taquilla_millones": 392.0,
+      "disponible": true
+    },
+    {
+      "id": 72,
+      "titulo": "Titanic",
+      "director": "James Cameron",
+      "anio": 1997,
+      "genero": ["Drama", "Romance"],
+      "rating": 7.9,
+      "taquilla_millones": 2200.0,
+      "disponible": true
+    },
+    {
+      "id": 73,
+      "titulo": "Avatar",
+      "director": "James Cameron",
+      "anio": 2009,
+      "genero": ["Acción", "Aventura", "Fantasía"],
+      "rating": 7.8,
+      "taquilla_millones": 2924.0,
+      "disponible": true
+    },
+    {
+      "id": 74,
+      "titulo": "Dune",
+      "director": "Denis Villeneuve",
+      "anio": 2021,
+      "genero": ["Acción", "Aventura", "Drama"],
+      "rating": 8.0,
+      "taquilla_millones": 402.0,
+      "disponible": true
+    },
+    {
+      "id": 75,
+      "titulo": "Pinocho",
+      "director": "Guillermo del Toro",
+      "anio": 2022,
+      "genero": ["Animación", "Drama", "Familiar"],
+      "rating": 7.6,
+      "taquilla_millones": 0.0,
+      "disponible": true
+    },
+    {
+      "id": 76,
+      "titulo": "Mad Max: Furia en la carretera",
+      "director": "George Miller",
+      "anio": 2015,
+      "genero": ["Acción", "Aventura", "Ciencia Ficción"],
+      "rating": 8.1,
+      "taquilla_millones": 375.0,
+      "disponible": true
+    },
+    {
+      "id": 77,
+      "titulo": "Coco",
+      "director": "Lee Unkrich, Adrian Molina",
+      "anio": 2017,
+      "genero": ["Animación", "Aventura", "Familiar"],
+      "rating": 8.4,
+      "taquilla_millones": 807.0,
+      "disponible": true
+    },
+    {
+      "id": 78,
+      "titulo": "Spider-Man: Un nuevo universo",
+      "director": "Bob Persichetti, Peter Ramsey",
+      "anio": 2018,
+      "genero": ["Animación", "Acción", "Aventura"],
+      "rating": 8.4,
+      "taquilla_millones": 375.5,
+      "disponible": true
+    },
+    {
+      "id": 79,
+      "titulo": "El renacido",
+      "director": "Alejandro G. Iñárritu",
+      "anio": 2015,
+      "genero": ["Aventura", "Drama", "Oeste"],
+      "rating": 8.0,
+      "taquilla_millones": 533.0,
+      "disponible": true
+    },
+    {
+      "id": 80,
+      "titulo": "Birdman",
+      "director": "Alejandro G. Iñárritu",
+      "anio": 2014,
+      "genero": ["Comedia", "Drama"],
+      "rating": 7.7,
+      "taquilla_millones": 103.2,
+      "disponible": true
+    },
+    {
+      "id": 81,
+      "titulo": "Moonlight",
+      "director": "Barry Jenkins",
+      "anio": 2016,
+      "genero": ["Drama"],
+      "rating": 7.4,
+      "taquilla_millones": 65.3,
+      "disponible": true
+    },
+    {
+      "id": 82,
+      "titulo": "Call Me By Your Name",
+      "director": "Luca Guadagnino",
+      "anio": 2017,
+      "genero": ["Drama", "Romance"],
+      "rating": 7.8,
+      "taquilla_millones": 41.9,
+      "disponible": false
+    },
+    {
+      "id": 83,
+      "titulo": "Drive",
+      "director": "Nicolas Winding Refn",
+      "anio": 2011,
+      "genero": ["Crimen", "Drama", "Thriller"],
+      "rating": 7.8,
+      "taquilla_millones": 78.1,
+      "disponible": true
+    },
+    {
+      "id": 84,
+      "titulo": "Looper",
+      "director": "Rian Johnson",
+      "anio": 2012,
+      "genero": ["Acción", "Ciencia Ficción", "Thriller"],
+      "rating": 7.4,
+      "taquilla_millones": 166.4,
+      "disponible": true
+    },
+    {
+      "id": 85,
+      "titulo": "Her",
+      "director": "Spike Jonze",
+      "anio": 2013,
+      "genero": ["Drama", "Romance", "Ciencia Ficción"],
+      "rating": 8.0,
+      "taquilla_millones": 48.3,
+      "disponible": true
+    },
+    {
+      "id": 86,
+      "titulo": "Arrival",
+      "director": "Denis Villeneuve",
+      "anio": 2016,
+      "genero": ["Drama", "Ciencia Ficción"],
+      "rating": 7.9,
+      "taquilla_millones": 203.4,
+      "disponible": true
+    },
+    {
+      "id": 87,
+      "titulo": "Atrápame si puedes",
+      "director": "Steven Spielberg",
+      "anio": 2002,
+      "genero": ["Biografía", "Crimen", "Drama"],
+      "rating": 8.1,
+      "taquilla_millones": 352.1,
+      "disponible": true
+    },
+    {
+      "id": 88,
+      "titulo": "Eterno resplandor de una mente sin recuerdos",
+      "director": "Michel Gondry",
+      "anio": 2004,
+      "genero": ["Drama", "Romance", "Ciencia Ficción"],
+      "rating": 8.3,
+      "taquilla_millones": 34.1,
+      "disponible": true
+    },
+    {
+      "id": 89,
+      "titulo": "Bastardos sin gloria",
+      "director": "Quentin Tarantino",
+      "anio": 2009,
+      "genero": ["Aventura", "Drama", "Guerra"],
+      "rating": 8.3,
+      "taquilla_millones": 321.5,
+      "disponible": true
+    },
+    {
+      "id": 90,
+      "titulo": "Whiplash",
+      "director": "Damien Chazelle",
+      "anio": 2014,
+      "genero": ["Drama", "Música"],
+      "rating": 8.5,
+      "taquilla_millones": 49.0,
+      "disponible": true
+    },
+    {
+      "id": 91,
+      "titulo": "Alien: El Regreso",
+      "director": "James Cameron",
+      "anio": 1986,
+      "genero": ["Acción", "Ciencia Ficción", "Terror"],
+      "rating": 8.3,
+      "taquilla_millones": 131.1,
+      "disponible": true
+    },
+    {
+      "id": 92,
+      "titulo": "Terminator 2: El juicio final",
+      "director": "James Cameron",
+      "anio": 1991,
+      "genero": ["Acción", "Ciencia Ficción"],
+      "rating": 8.6,
+      "taquilla_millones": 520.8,
+      "disponible": true
+    },
+    {
+      "id": 93,
+      "titulo": "The Social Network",
+      "director": "David Fincher",
+      "anio": 2010,
+      "genero": ["Biografía", "Drama"],
+      "rating": 7.8,
+      "taquilla_millones": 224.9,
+      "disponible": true
+    },
+    {
+      "id": 94,
+      "titulo": "Zodiac",
+      "director": "David Fincher",
+      "anio": 2007,
+      "genero": ["Crimen", "Drama", "Misterio"],
+      "rating": 7.7,
+      "taquilla_millones": 84.7,
+      "disponible": true
+    },
+    {
+      "id": 95,
+      "titulo": "El sexto sentido",
+      "director": "M. Night Shyamalan",
+      "anio": 1999,
+      "genero": ["Drama", "Misterio", "Thriller"],
+      "rating": 8.1,
+      "taquilla_millones": 672.8,
+      "disponible": true
+    },
+    {
+      "id": 96,
+      "titulo": "Million Dollar Baby",
+      "director": "Clint Eastwood",
+      "anio": 2004,
+      "genero": ["Drama", "Deportes"],
+      "rating": 8.1,
+      "taquilla_millones": 216.8,
+      "disponible": true
+    },
+    {
+      "id": 97,
+      "titulo": "Gran Torino",
+      "director": "Clint Eastwood",
+      "anio": 2008,
+      "genero": ["Drama"],
+      "rating": 8.1,
+      "taquilla_millones": 270.0,
+      "disponible": true
+    },
+    {
+      "id": 98,
+      "titulo": "Sin perdón",
+      "director": "Clint Eastwood",
+      "anio": 1992,
+      "genero": ["Oeste"],
+      "rating": 8.2,
+      "taquilla_millones": 159.2,
+      "disponible": true
+    },
+    {
+      "id": 99,
+      "titulo": "Tigre y dragón",
+      "director": "Ang Lee",
+      "anio": 2000,
+      "genero": ["Acción", "Aventura", "Fantasía"],
+      "rating": 7.8,
+      "taquilla_millones": 213.5,
+      "disponible": true
+    },
+    {
+      "id": 100,
+      "titulo": "Brokeback Mountain",
+      "director": "Ang Lee",
+      "anio": 2005,
+      "genero": ["Drama", "Romance"],
+      "rating": 7.7,
+      "taquilla_millones": 178.1,
+      "disponible": false
+    },
+    {
+      "id": 101,
+      "titulo": "Gravity",
+      "director": "Alfonso Cuarón",
+      "anio": 2013,
+      "genero": ["Drama", "Ciencia Ficción", "Thriller"],
+      "rating": 7.7,
+      "taquilla_millones": 723.2,
+      "disponible": true
+    },
+    {
+      "id": 102,
+      "titulo": "Hijos de los hombres",
+      "director": "Alfonso Cuarón",
+      "anio": 2006,
+      "genero": ["Drama", "Ciencia Ficción", "Thriller"],
+      "rating": 7.9,
+      "taquilla_millones": 70.0,
+      "disponible": true
+    },
+    {
+      "id": 103,
+      "titulo": "Birdman",
+      "director": "Alejandro G. Iñárritu",
+      "anio": 2014,
+      "genero": ["Comedia", "Drama"],
+      "rating": 7.7,
+      "taquilla_millones": 103.2,
+      "disponible": true
+    },
+    {
+      "id": 104,
+      "titulo": "Babel",
+      "director": "Alejandro G. Iñárritu",
+      "anio": 2006,
+      "genero": ["Drama"],
+      "rating": 7.4,
+      "taquilla_millones": 135.3,
+      "disponible": true
+    },
+    {
+      "id": 105,
+      "titulo": "Amor",
+      "director": "Michael Haneke",
+      "anio": 2012,
+      "genero": ["Drama", "Romance"],
+      "rating": 7.9,
+      "taquilla_millones": 28.5,
+      "disponible": true
+    },
+    {
+      "id": 106,
+      "titulo": "La cinta blanca",
+      "director": "Michael Haneke",
+      "anio": 2009,
+      "genero": ["Drama", "Misterio"],
+      "rating": 7.8,
+      "taquilla_millones": 22.2,
+      "disponible": true
+    },
+    {
+      "id": 107,
+      "titulo": "Hacia rutas salvajes",
+      "director": "Sean Penn",
+      "anio": 2007,
+      "genero": ["Aventura", "Biografía", "Drama"],
+      "rating": 8.1,
+      "taquilla_millones": 56.7,
+      "disponible": true
+    },
+    {
+      "id": 108,
+      "titulo": "Mystic River",
+      "director": "Clint Eastwood",
+      "anio": 2003,
+      "genero": ["Crimen", "Drama", "Misterio"],
+      "rating": 7.9,
+      "taquilla_millones": 156.8,
+      "disponible": true
+    },
+    {
+      "id": 109,
+      "titulo": "Sully",
+      "director": "Clint Eastwood",
+      "anio": 2016,
+      "genero": ["Biografía", "Drama"],
+      "rating": 7.4,
+      "taquilla_millones": 180.2,
+      "disponible": true
+    },
+    {
+      "id": 110,
+      "titulo": "El club de los poetas muertos",
+      "director": "Peter Weir",
+      "anio": 1989,
+      "genero": ["Comedia", "Drama"],
+      "rating": 8.1,
+      "taquilla_millones": 235.9,
+      "disponible": true
+    },
+    {
+      "id": 111,
+      "titulo": "Master and Commander",
+      "director": "Peter Weir",
+      "anio": 2003,
+      "genero": ["Acción", "Aventura", "Drama"],
+      "rating": 7.4,
+      "taquilla_millones": 211.6,
+      "disponible": true
+    },
+    {
+      "id": 112,
+      "titulo": "Un paseo para recordar",
+      "director": "Adam Shankman",
+      "anio": 2002,
+      "genero": ["Drama", "Romance"],
+      "rating": 7.4,
+      "taquilla_millones": 47.5,
+      "disponible": false
+    },
+    {
+      "id": 113,
+      "titulo": "Diario de una pasión",
+      "director": "Nick Cassavetes",
+      "anio": 2004,
+      "genero": ["Drama", "Romance"],
+      "rating": 7.8,
+      "taquilla_millones": 117.1,
+      "disponible": true
+    },
+    {
+      "id": 114,
+      "titulo": "Before Sunrise",
+      "director": "Richard Linklater",
+      "anio": 1995,
+      "genero": ["Drama", "Romance"],
+      "rating": 8.1,
+      "taquilla_millones": 5.5,
+      "disponible": true
+    },
+    {
+      "id": 115,
+      "titulo": "Before Sunset",
+      "director": "Richard Linklater",
+      "anio": 2004,
+      "genero": ["Drama", "Romance"],
+      "rating": 8.0,
+      "taquilla_millones": 16.0,
+      "disponible": true
+    },
+    {
+      "id": 116,
+      "titulo": "Before Midnight",
+      "director": "Richard Linklater",
+      "anio": 2013,
+      "genero": ["Drama", "Romance"],
+      "rating": 7.9,
+      "taquilla_millones": 23.4,
+      "disponible": true
+    },
+    {
+      "id": 117,
+      "titulo": "Boyhood",
+      "director": "Richard Linklater",
+      "anio": 2014,
+      "genero": ["Drama"],
+      "rating": 7.9,
+      "taquilla_millones": 57.3,
+      "disponible": true
+    },
+    {
+      "id": 118,
+      "titulo": "Desaparecida",
+      "director": "David Fincher",
+      "anio": 2014,
+      "genero": ["Drama", "Misterio", "Thriller"],
+      "rating": 8.1,
+      "taquilla_millones": 369.3,
+      "disponible": true
+    },
+    {
+      "id": 119,
+      "titulo": "El curioso caso de Benjamin Button",
+      "director": "David Fincher",
+      "anio": 2008,
+      "genero": ["Drama", "Fantasía", "Romance"],
+      "rating": 7.8,
+      "taquilla_millones": 335.8,
+      "disponible": true
+    },
+    {
+      "id": 120,
+      "titulo": "Tiempos modernos",
+      "director": "Charles Chaplin",
+      "anio": 1936,
+      "genero": ["Comedia", "Drama", "Romance"],
+      "rating": 8.5,
+      "taquilla_millones": 0.0,
+      "disponible": true
+    },
+    {
+      "id": 121,
+      "titulo": "El gran dictador",
+      "director": "Charles Chaplin",
+      "anio": 1940,
+      "genero": ["Comedia", "Drama", "Guerra"],
+      "rating": 8.4,
+      "taquilla_millones": 5.1,
+      "disponible": true
+    },
+    {
+      "id": 122,
+      "titulo": "Pather Panchali",
+      "director": "Satyajit Ray",
+      "anio": 1955,
+      "genero": ["Drama"],
+      "rating": 8.5,
+      "taquilla_millones": 0.1,
+      "disponible": true
+    },
+    {
+      "id": 123,
+      "titulo": "Aparajito",
+      "director": "Satyajit Ray",
+      "anio": 1956,
+      "genero": ["Drama"],
+      "rating": 8.3,
+      "taquilla_millones": 0.0,
+      "disponible": true
+    },
+    {
+      "id": 124,
+      "titulo": "El mundo de Apu",
+      "director": "Satyajit Ray",
+      "anio": 1959,
+      "genero": ["Drama"],
+      "rating": 8.5,
+      "taquilla_millones": 0.0,
+      "disponible": true
+    },
+    {
+      "id": 125,
+      "titulo": "Rashomon",
+      "director": "Akira Kurosawa",
+      "anio": 1950,
+      "genero": ["Crimen", "Drama", "Misterio"],
+      "rating": 8.2,
+      "taquilla_millones": 0.1,
+      "disponible": true
+    },
+    {
+      "id": 126,
+      "titulo": "Yojimbo",
+      "director": "Akira Kurosawa",
+      "anio": 1961,
+      "genero": ["Acción", "Drama", "Thriller"],
+      "rating": 8.2,
+      "taquilla_millones": 0.2,
+      "disponible": true
+    },
+    {
+      "id": 127,
+      "titulo": "Trono de sangre",
+      "director": "Akira Kurosawa",
+      "anio": 1957,
+      "genero": ["Drama", "Historia"],
+      "rating": 8.1,
+      "taquilla_millones": 0.0,
+      "disponible": true
+    },
+    {
+      "id": 128,
+      "titulo": "Ran",
+      "director": "Akira Kurosawa",
+      "anio": 1985,
+      "genero": ["Acción", "Drama", "Guerra"],
+      "rating": 8.2,
+      "taquilla_millones": 30.5,
+      "disponible": true
+    },
+    {
+      "id": 129,
+      "titulo": "Apocalypse Now",
+      "director": "Francis Ford Coppola",
+      "anio": 1979,
+      "genero": ["Drama", "Guerra"],
+      "rating": 8.4,
+      "taquilla_millones": 83.5,
+      "disponible": true
+    },
+    {
+      "id": 130,
+      "titulo": "Platoon",
+      "director": "Oliver Stone",
+      "anio": 1986,
+      "genero": ["Drama", "Guerra"],
+      "rating": 8.1,
+      "taquilla_millones": 138.5,
+      "disponible": true
+    },
+    {
+      "id": 131,
+      "titulo": "JFK",
+      "director": "Oliver Stone",
+      "anio": 1991,
+      "genero": ["Biografía", "Drama", "Historia"],
+      "rating": 8.0,
+      "taquilla_millones": 205.4,
+      "disponible": true
+    },
+    {
+      "id": 132,
+      "titulo": "Nacido el 4 de julio",
+      "director": "Oliver Stone",
+      "anio": 1989,
+      "genero": ["Biografía", "Drama", "Guerra"],
+      "rating": 7.2,
+      "taquilla_millones": 161.0,
+      "disponible": true
+    },
+    {
+      "id": 133,
+      "titulo": "La chaqueta metálica",
+      "director": "Stanley Kubrick",
+      "anio": 1987,
+      "genero": ["Drama", "Guerra"],
+      "rating": 8.3,
+      "taquilla_millones": 46.4,
+      "disponible": true
+    },
+    {
+      "id": 134,
+      "titulo": "2001: Una odisea del espacio",
+      "director": "Stanley Kubrick",
+      "anio": 1968,
+      "genero": ["Aventura", "Ciencia Ficción"],
+      "rating": 8.3,
+      "taquilla_millones": 68.7,
+      "disponible": true
+    },
+    {
+      "id": 135,
+      "titulo": "Dr. Strangelove",
+      "director": "Stanley Kubrick",
+      "anio": 1964,
+      "genero": ["Comedia", "Guerra"],
+      "rating": 8.4,
+      "taquilla_millones": 9.4,
+      "disponible": true
+    },
+    {
+      "id": 136,
+      "titulo": "Unforgiven",
+      "director": "Clint Eastwood",
+      "anio": 1992,
+      "genero": ["Oeste"],
+      "rating": 8.2,
+      "taquilla_millones": 159.2,
+      "disponible": true
+    },
+    {
+      "id": 137,
+      "titulo": "Million Dollar Baby",
+      "director": "Clint Eastwood",
+      "anio": 2004,
+      "genero": ["Drama", "Deportes"],
+      "rating": 8.1,
+      "taquilla_millones": 216.8,
+      "disponible": true
+    },
+    {
+      "id": 138,
+      "titulo": "El bueno, el feo y el malo",
+      "director": "Sergio Leone",
+      "anio": 1966,
+      "genero": ["Oeste"],
+      "rating": 8.8,
+      "taquilla_millones": 25.1,
+      "disponible": true
+    },
+    {
+      "id": 139,
+      "titulo": "Érase una vez en el Oeste",
+      "director": "Sergio Leone",
+      "anio": 1968,
+      "genero": ["Oeste"],
+      "rating": 8.5,
+      "taquilla_millones": 5.3,
+      "disponible": true
+    },
+    {
+      "id": 140,
+      "titulo": "Érase una vez en América",
+      "director": "Sergio Leone",
+      "anio": 1984,
+      "genero": ["Crimen", "Drama"],
+      "rating": 8.3,
+      "taquilla_millones": 5.3,
+      "disponible": true
+    },
+    {
+      "id": 141,
+      "titulo": "Seven (Se7en)",
+      "director": "David Fincher",
+      "anio": 1995,
+      "genero": ["Crimen", "Drama", "Misterio"],
+      "rating": 8.6,
+      "taquilla_millones": 327.3,
+      "disponible": true
+    },
+    {
+      "id": 142,
+      "titulo": "Zodiac",
+      "director": "David Fincher",
+      "anio": 2007,
+      "genero": ["Crimen", "Drama", "Misterio"],
+      "rating": 7.7,
+      "taquilla_millones": 84.7,
+      "disponible": true
+    },
+    {
+      "id": 143,
+      "titulo": "El club de la lucha",
+      "director": "David Fincher",
+      "anio": 1999,
+      "genero": ["Drama"],
+      "rating": 8.8,
+      "taquilla_millones": 101.2,
+      "disponible": true
+    },
+    {
+      "id": 144,
+      "titulo": "The Social Network",
+      "director": "David Fincher",
+      "anio": 2010,
+      "genero": ["Biografía", "Drama"],
+      "rating": 7.8,
+      "taquilla_millones": 224.9,
+      "disponible": true
+    },
+    {
+      "id": 145,
+      "titulo": "Desaparecida",
+      "director": "David Fincher",
+      "anio": 2014,
+      "genero": ["Drama", "Misterio", "Thriller"],
+      "rating": 8.1,
+      "taquilla_millones": 369.3,
+      "disponible": true
+    },
+    {
+      "id": 146,
+      "titulo": "Tiburón",
+      "director": "Steven Spielberg",
+      "anio": 1975,
+      "genero": ["Aventura", "Thriller"],
+      "rating": 8.1,
+      "taquilla_millones": 472.0,
+      "disponible": true
+    },
+    {
+      "id": 147,
+      "titulo": "E.T., el extraterrestre",
+      "director": "Steven Spielberg",
+      "anio": 1982,
+      "genero": ["Ciencia Ficción", "Aventura", "Familiar"],
+      "rating": 7.8,
+      "taquilla_millones": 792.9,
+      "disponible": true
+    },
+    {
+      "id": 148,
+      "titulo": "Parque Jurásico",
+      "director": "Steven Spielberg",
+      "anio": 1993,
+      "genero": ["Aventura", "Ciencia Ficción"],
+      "rating": 8.2,
+      "taquilla_millones": 1046.0,
+      "disponible": true
+    },
+    {
+      "id": 149,
+      "titulo": "La lista de Schindler",
+      "director": "Steven Spielberg",
+      "anio": 1993,
+      "genero": ["Biografía", "Drama", "Historia"],
+      "rating": 8.9,
+      "taquilla_millones": 322.1,
+      "disponible": true
+    },
+    {
+      "id": 150,
+      "titulo": "Salvar al soldado Ryan",
+      "director": "Steven Spielberg",
+      "anio": 1998,
+      "genero": ["Drama", "Guerra"],
+      "rating": 8.6,
+      "taquilla_millones": 482.3,
+      "disponible": true
+    },
+    {
+      "id": 151,
+      "titulo": "Atrápame si puedes",
+      "director": "Steven Spielberg",
+      "anio": 2002,
+      "genero": ["Biografía", "Crimen", "Drama"],
+      "rating": 8.1,
+      "taquilla_millones": 352.1,
+      "disponible": true
+    },
+    {
+      "id": 152,
+      "titulo": "La forma del agua",
+      "director": "Guillermo del Toro",
+      "anio": 2017,
+      "genero": ["Drama", "Fantasía", "Romance"],
+      "rating": 7.3,
+      "taquilla_millones": 195.2,
+      "disponible": true
+    },
+    {
+      "id": 153,
+      "titulo": "El espinazo del diablo",
+      "director": "Guillermo del Toro",
+      "anio": 2001,
+      "genero": ["Drama", "Terror"],
+      "rating": 7.4,
+      "taquilla_millones": 6.8,
+      "disponible": true
+    },
+    {
+      "id": 154,
+      "titulo": "La cumbre escarlata",
+      "director": "Guillermo del Toro",
+      "anio": 2015,
+      "genero": ["Drama", "Fantasía", "Terror"],
+      "rating": 6.5,
+      "taquilla_millones": 75.0,
+      "disponible": true
+    },
+    {
+      "id": 155,
+      "titulo": "Pacific Rim",
+      "director": "Guillermo del Toro",
+      "anio": 2013,
+      "genero": ["Acción", "Aventura", "Ciencia Ficción"],
+      "rating": 6.9,
+      "taquilla_millones": 411.0,
+      "disponible": true
+    }
+  ],
+  "directores": [
+    { "id": 1, "nombre": "Frank Darabont", "nacionalidad": "EE. UU.", "activo": true },
+    { "id": 2, "nombre": "Francis Ford Coppola", "nacionalidad": "EE. UU.", "activo": false },
+    { "id": 3, "nombre": "Christopher Nolan", "nacionalidad": "Reino Unido", "activo": true },
+    { "id": 4, "nombre": "Quentin Tarantino", "nacionalidad": "EE. UU.", "activo": true },
+    { "id": 5, "nombre": "Steven Spielberg", "nacionalidad": "EE. UU.", "activo": true },
+    { "id": 6, "nombre": "David Fincher", "nacionalidad": "EE. UU.", "activo": true },
+    { "id": 7, "nombre": "Guillermo del Toro", "nacionalidad": "México", "activo": true },
+    { "id": 8, "nombre": "Hayao Miyazaki", "nacionalidad": "Japón", "activo": false }
+  ]
+}
